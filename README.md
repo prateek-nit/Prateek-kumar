@@ -1,4 +1,3 @@
-# Prateek-kumar
 
 # Hi 👋, I'm Prateek Kumar
 
