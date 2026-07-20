@@ -50,8 +50,8 @@ I enjoy solving problems, learning new technologies, and building projects that 
 
 ## 📚 Currently Learning
 
-- Advanced DSA
-- System Design
+- DSA
+- Full Stack Web Development
 - AI Agents
 
 ---
@@ -74,7 +74,7 @@ Features:
 
 ## 📈 Goals for 2026
 
-- Solve 500+ DSA Problems
+- Solve 400+ DSA Problems
 - Build 10+ Real-World Projects
 - Contribute to Open Source
 - Become proficient in AI Engineering
@@ -87,7 +87,7 @@ GitHub:
 https://github.com/prateek-nit
 
 LinkedIn:
-https://linkedin.com/in/prateek-nit
+https://www.linkedin.com/in/prateek-kumar-295a36369/
 
 Email:
 work.prateek85@gmail.com
